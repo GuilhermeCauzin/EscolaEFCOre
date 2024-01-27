@@ -1,0 +1,10 @@
+@EscolaEFCore_HostAddress = https://localhost:7137
+
+GET {{EscolaEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{EscolaEFCore_HostAddress}}/api/aluno
+
+###
